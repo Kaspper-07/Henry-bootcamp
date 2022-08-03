@@ -1,5 +1,7 @@
 'use strict'
 
+//Ejercicios resueltos
+
 function BinarioADecimal(num){
   let sum = 0;
   
